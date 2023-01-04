@@ -1,0 +1,24 @@
+1. Location 1
+
+- id: 1
+- name: Universitas Surabaya
+- unique_code: 1UBAYA
+
+2. Location 2
+
+- id: 2
+- name: Poltekkes Surabaya
+- unique_code: 2POLSU
+
+3. Location 3
+
+- id: 3
+- name:  Grand City Mall Surabaya
+- unique_code: 3GCMS
+
+4. Location 4
+
+- id: 4
+- name: Ciputra World Surabaya
+- unique_code: 4CIPUTRA
+

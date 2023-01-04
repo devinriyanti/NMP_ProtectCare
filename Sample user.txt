@@ -1,0 +1,12 @@
+User 1:
+
+- username: devinaar
+- password: 123456
+- full_name: Devina Aprilia Ariyanti
+- doses_of_vaccine: 1
+
+User 2:
+- username: safiraar
+- password: 123456
+- full_name: Safira Arinta Azzahra
+- doses_of_vaccine: 2
